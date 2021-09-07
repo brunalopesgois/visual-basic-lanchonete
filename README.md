@@ -1,6 +1,6 @@
 #Lanchonete VB.NET
 
-![Logo Hora do Lanche](https://drive.google.com/file/d/1oO5AWKiZ1cSnwj1mdkqc0nsf0W1HisTL/view?usp=sharing)
+![Logo Hora do Lanche](https://live.staticflickr.com/65535/51432023748_4b51af88e5_h.jp)
 
 Projeto desenvolvido para a matéria de Sistemas de Informação do 2º semestre de ADS. Sistema de lanchonete utilizando VB.NET para Windows Form.
 
