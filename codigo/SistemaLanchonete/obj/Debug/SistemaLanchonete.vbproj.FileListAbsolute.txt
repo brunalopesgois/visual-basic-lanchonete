@@ -249,3 +249,7 @@ C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\D
 C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.exe
 C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.xml
 C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.pdb
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\sistemaLanchonete.exe.manifest
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\sistemaLanchonete.application
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.exe.manifest
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.application
