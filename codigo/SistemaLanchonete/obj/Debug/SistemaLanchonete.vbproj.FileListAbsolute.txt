@@ -1,0 +1,251 @@
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\SistemaLanchonete.exe.config
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\SistemaLanchonete.exe
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\SistemaLanchonete.pdb
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\SistemaLanchonete.xml
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbprojAssemblyReference.cache
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.frm_login.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.Resources.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.GenerateResource.cache
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.exe
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.xml
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.pdb
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.frm_menu.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\Interop.ADODB.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.ResolveComReference.cache
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.SplashScreen1.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_estoque.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_vendas.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_obs.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_forma_pagamento.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_pagamento_dinheiro.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_saida.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_cupom.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\RdlCompile.cache
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\RdlCompile.compiled
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.CopyComplete
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\EnvDTE.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\stdole.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_comanda.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_lista_estoque.resources
+C:\Users\PC\Documents\ADS EAD - 2º Semestre\Sistemas de Informação\Trabalho P2\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_vendas_mes.resources
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.AssemblyReference.cache
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\Interop.ADODB.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.ResolveComReference.cache
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_login.resources
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_estoque.resources
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_forma_pagamento.resources
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_menu.resources
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_obs.resources
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_pagamento_dinheiro.resources
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_saida.resources
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_vendas.resources
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.Resources.resources
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.SplashScreen1.resources
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.GenerateResource.cache
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.exe
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.xml
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\sistemaLanchonete.pdb
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\lanchonete.mdb
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\sistemaLanchonete.exe.config
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\sistemaLanchonete.exe
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\sistemaLanchonete.pdb
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\sistemaLanchonete.xml
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\EnvDTE.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\stdole.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\SistemaLanchonete\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.CopyComplete
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\lanchonete.mdb
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\sistemaLanchonete.exe.config
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\sistemaLanchonete.exe
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\sistemaLanchonete.pdb
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\sistemaLanchonete.xml
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\EnvDTE.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\stdole.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.AssemblyReference.cache
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\Interop.ADODB.dll
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.ResolveComReference.cache
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_login.resources
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_estoque.resources
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_forma_pagamento.resources
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_menu.resources
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_obs.resources
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_pagamento_dinheiro.resources
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_saida.resources
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.frm_vendas.resources
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.Resources.resources
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.SplashScreen1.resources
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.GenerateResource.cache
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\SistemaLanchonete.vbproj.CopyComplete
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.exe
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.xml
+C:\Users\Pc\Documents\Projetos\sistema-lanchonete\codigo\SistemaLanchonete\obj\Debug\sistemaLanchonete.pdb
