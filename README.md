@@ -1,6 +1,6 @@
 #Lanchonete VB.NET
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/193894977@N06/51432023748/" title="logo"><img src="https://live.staticflickr.com/65535/51432023748_193c27c260.jpg" width="500" height="201" alt="logo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193894977@N06/51432023748/" title="logo"><img src="https://live.staticflickr.com/65535/51432023748_193c27c260.jpg" width="500" height="201" alt="logo"></a>
 
 Projeto desenvolvido para a matéria de Sistemas de Informação do 2º semestre de ADS. Sistema de lanchonete utilizando VB.NET para Windows Form.
 
